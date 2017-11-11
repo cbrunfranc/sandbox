@@ -4,5 +4,5 @@ var mqtt = require ("./mqtt.js");
 var config = require ("./config.js");
 
 //mqtt.workflow();
-mongodb.connect();
-//server.start();
+//mongodb.connect();
+server.start();
